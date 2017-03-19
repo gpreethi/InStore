@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">InStore</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Label for overflow menu option that inserts fake tracker data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all tracker data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Trackers</string>
+
+    <!-- Title text for the empty view, which describes the empty dog house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">Our store is empty</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a tracker [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding a fitness tracker</string>
+
+    <!-- Title for the activity to add a new tracker [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_tracker">Add a tracker</string>
+
+    <!-- Title for the activity to edit an existing tracker [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_edit_tracker">Edit Tracker</string>
+
+    <!-- Label for editor menu option to save tracker and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current tracker [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Toast message in editor when new tracker has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_tracker_successful">Tracker saved</string>
+
+    <!-- Toast message in editor when new tracker has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_tracker_failed">Error with saving tracker</string>
+
+    <!-- Toast message in editor when current tracker was successfully updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_tracker_successful">Tracker updated</string>
+
+    <!-- Toast message in editor when current tracker has failed to be updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_tracker_failed">Error with updating tracker</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current tracker [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <!-- Toast message in editor when current tracker was successfully deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_tracker_successful">tracker deleted</string>
+
+    <!-- Toast message in editor when current tracker has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_tracker_failed">Error with deleting tracker</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current tracker [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this tracker?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current tracker [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current tracker [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for gender information in the editor [CHAR LIMIT=30] -->
+    <string name="category_gender">Gender</string>
+
+    <!-- Label for measurement information in the editor [CHAR LIMIT=30] -->
+    <string name="category_measurement">Measurement</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_tracker_name">Name</string>
+
+    <!-- Text hint for quantity field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_tracker_quantity">Quantity</string>
+
+    <!-- Text hint for Price field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_tracker_price">Price</string>
+
+    <!-- Text hint for Price field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_tracker_vendor">Vendor e-mail id</string>
+    <string name="order_more">Order More</string>
+    <string name="sell">Sell</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="add_image">Add Image</string>
+
+
+</resources>
